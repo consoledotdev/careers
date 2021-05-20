@@ -1,4 +1,4 @@
-# Jobs and careers at Console
+# Careers at Console
 
 [Console](https://console.dev) aims to become the place developers go to find
 the best tools. Starting as a weekly newsletter, each week we pick out the most
