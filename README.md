@@ -22,7 +22,6 @@ trust to help them discover the best and most interesting tools.
 
 * [Read about our mission](https://blog.console.dev/focusing-on-developers/)
   and how the age of the developer is just getting started.
-
 * [Read about our culture](/culture.md) and how we run Console.
 
 ## Apply
