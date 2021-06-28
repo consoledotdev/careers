@@ -94,16 +94,7 @@ Competitive day rate (part time) or salary (full time).
 
 ## How to apply
 
-Send an email to [hello@console.dev](hello@console.dev) with the following:
-
-* Include in the body of the email: a short note introducing yourself and why
-  you're interested in working for Console. This should be no more than 200
-  words.
-* Include in the body of the email: a review of one tool you've used recently
-  in the same format as [our weekly newsletter](https://console.dev/latest/):
-  what is it (max 70 characters), what you like (max 300 characters), what you
-  don't like (max 300 characters).
-* Attach your CV.
+Hiring for this position has closed.
 
 ## How we hire
 

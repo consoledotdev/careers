@@ -10,7 +10,7 @@ work at Console.
 
 ## Open roles
 
-* [Technical writer (part time/full time)](/roles/technical-writer.md).
+We currently have no open roles.
 
 ## Life at Console
 
